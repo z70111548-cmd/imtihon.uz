@@ -111,5 +111,31 @@ color: black;
 .img{
     padding: 70px;
 }
+.foot{
+    background-color: black;
+    width: 2000px;
+    height: 220px;
+}
+.er{
+    padding: 10px 2px;
+}
+
+.foot{
+    padding: 30px;
+    
+    
+}
+.phic{
+    display: flex;
+justify-content:flex-end ;
+
+}
+.dir{
+    background-color: white;
+    width: 1000px;
+    height: 50px;
+    display: flex;
+    text-align: center;
+}
 
 
