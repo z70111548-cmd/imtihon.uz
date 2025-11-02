@@ -21,21 +21,28 @@
 .header__list{
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 30px;
+    font-family: 
+"Plus Jakarta Sans";
 }
 .header__list{
     display: flex;
     justify-content: center;
 gap: 50px;
+
 }
-.header__item{
+
+
+.header__link{
 color: black;
+text-decoration: none;
 }
 .text{
     background-color: white;
-    width: 550px;
-    height: 333px;
-    padding: 200px;
+    width: 2000px;
+    height: 400px;
+        font-family: 
+"Plus Jakarta Sans";
     gap: 40px;
         display: flex;
     justify-content: space-between;
@@ -47,15 +54,25 @@ color: black;
     width: 200px;
     height: 61px;
     color: white;
+  
     
 }
+
+
+
 .video{
   background-color: white;  
 
 }
 .iframe{
-    width: 500px;
+    width: 700px;
     height: 400px;
+}
+.dir{
+     display: flex;
+  flex-direction: column; 
+  align-items: flex-start; 
+  gap: 40px;
 }
 
 .section1{
@@ -90,16 +107,25 @@ color: black;
 }
 .black{
     text-align: center;
+        font-family: 
+"Plus Jakarta Sans";
 }
 .sect{
     display: flex;
-    gap: 30px;
-    padding: 40px;
+    gap: 130px;
+    padding: 70px;
     flex-wrap: wrap;
+    margin-top: 70px;
+box-sizing: border-box;
+    font-family: 
+"Plus Jakarta Sans";
 }
 .wer{
     text-align: center;
     color: black;
+    margin-top: 80px;
+        font-family: 
+"Plus Jakarta Sans";
 }
 .main{
     background-color: #F2F4F6;
@@ -113,8 +139,8 @@ color: black;
 }
 .foot{
     background-color: black;
-    width: 2000px;
-    height: 220px;
+    width: 2030px;
+    height: 210px;
 }
 .er{
     padding: 10px 2px;
@@ -124,18 +150,30 @@ color: black;
     padding: 30px;
     
     
+    
 }
 .phic{
     display: flex;
-justify-content:flex-end ;
+    justify-content: space-between;
+    margin-top: 50px;
+}
 
+
+
+
+.bt{
+     background-color: black;
+    width: 150px;
+    height: 51px;
+    color: white;
+    border-radius: 5px;
+    margin: 100px;
 }
-.dir{
-    background-color: white;
-    width: 1000px;
-    height: 50px;
+.class{
     display: flex;
-    text-align: center;
+    gap: 20px;
 }
+
+
 
 
